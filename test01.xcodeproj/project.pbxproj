@@ -13,6 +13,7 @@
 		D7239E3B1E2E0EB400F7360D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D7239E391E2E0EB400F7360D /* Main.storyboard */; };
 		D7239E3D1E2E0EB400F7360D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D7239E3C1E2E0EB400F7360D /* Assets.xcassets */; };
 		D7239E401E2E0EB400F7360D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D7239E3E1E2E0EB400F7360D /* LaunchScreen.storyboard */; };
+		D7239E491E2E100F00F7360D /* OneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D7239E481E2E100F00F7360D /* OneViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		D7239E3C1E2E0EB400F7360D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D7239E3F1E2E0EB400F7360D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D7239E411E2E0EB400F7360D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D7239E471E2E100F00F7360D /* OneViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OneViewController.h; sourceTree = "<group>"; };
+		D7239E481E2E100F00F7360D /* OneViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OneViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				D7239E341E2E0EB400F7360D /* AppDelegate.m */,
 				D7239E361E2E0EB400F7360D /* ViewController.h */,
 				D7239E371E2E0EB400F7360D /* ViewController.m */,
+				D7239E471E2E100F00F7360D /* OneViewController.h */,
+				D7239E481E2E100F00F7360D /* OneViewController.m */,
 				D7239E391E2E0EB400F7360D /* Main.storyboard */,
 				D7239E3C1E2E0EB400F7360D /* Assets.xcassets */,
 				D7239E3E1E2E0EB400F7360D /* LaunchScreen.storyboard */,
@@ -154,6 +159,7 @@
 				D7239E381E2E0EB400F7360D /* ViewController.m in Sources */,
 				D7239E351E2E0EB400F7360D /* AppDelegate.m in Sources */,
 				D7239E321E2E0EB400F7360D /* main.m in Sources */,
+				D7239E491E2E100F00F7360D /* OneViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
